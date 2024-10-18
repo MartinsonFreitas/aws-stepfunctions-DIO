@@ -1,3 +1,8 @@
+## aws-stepfunctions - O que aprendi!
+A ferramenta é poderosa quando utilizada corretamente e junto com outros serviços da AWS. As dicas dadas pelo Felipão são preciosas, principlamente em relação a cobrança do serviço.
+
+Tive uma experiência desagradável e cobranças de serviços que eu não estava utilizando. É uma surpresa descobrir que o serviço continuava rodando e sem saber qual o serviço continuava funcioanndo... Tive duas cobranças e muita dor de cabeça pra encontrar o motivo da cobrança... Mas, vale à pena continuar estudando as ferramentas da AWS, é errando que se aprende! 
+
 ## aws-stepfunctions-examples
 
 AWS Step Functions is a low-code visual workflow service. This repository includes detailed examples that will help you unlock the power of serverless workflow.
